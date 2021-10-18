@@ -16,6 +16,6 @@ app.get('/commands', (req, res) => {
     res.render('commands', { bot: settings.website })
 })
 
-const listener = server.listen(8000, function() {
+const listener = server.listen(443, function() {
     console.log(`App loaded on port ${listener.address().port}`)
 })
