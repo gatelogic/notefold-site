@@ -1,0 +1,25 @@
+{
+  "name": "notefold-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatelogic/notefold-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gatelogic/notefold-site/issues"
+  },
+  "homepage": "https://github.com/gatelogic/notefold-site#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}

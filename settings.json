@@ -1,0 +1,17 @@
+{
+    "website": {
+        "name": "NoteFold",
+        "avatar": "https://images-ext-2.discordapp.net/external/-eVaxumTsADFe6LcuQnijv9lxQLEpRf68cjg1pgjnOk/%3Fsize%3D256/https/cdn.discordapp.com/avatars/895392984688918558/a3048635b64dc89a5609c412d607c3a7.png",
+        "invite": "https://link.gatelogic.me/notefold"
+    },
+    "commands": {
+        "newnote": "Generates a new note.",
+        "stats": "Gives you statistics on the bot.",
+        "invite": "Give you an invite for the bot and support server."
+    },
+    "commands-args": {
+        "newnote": "/newnote <title> <text>",
+        "stats": "/stats",
+        "invite": "/invite"
+    }
+}
